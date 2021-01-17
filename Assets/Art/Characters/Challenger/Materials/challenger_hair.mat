@@ -196,9 +196,9 @@ Material:
     - _ATDistance: 1
     - _AddPrecomputedVelocity: 0
     - _AlbedoAffectEmissive: 0
-    - _AlphaClipThreshold: 0.525
-    - _AlphaClipThresholdDepthPostpass: 0.669
-    - _AlphaClipThresholdDepthPrepass: 0.488
+    - _AlphaClipThreshold: 0
+    - _AlphaClipThresholdDepthPostpass: 0.533
+    - _AlphaClipThresholdDepthPrepass: 0.16
     - _AlphaCutoff: 0.5
     - _AlphaCutoffEnable: 1
     - _AlphaCutoffPostpass: 0.5
@@ -207,7 +207,7 @@ Material:
     - _AlphaDstBlend: 10
     - _AlphaSrcBlend: 1
     - _AlphaTestRef: 0.5
-    - _AlphaThresholdShadow: 0.584
+    - _AlphaThresholdShadow: 0.7
     - _AlphaToMask: 0
     - _AlphaToMaskInspectorValue: 0
     - _Anisotropy: 0
@@ -243,7 +243,7 @@ Material:
     - _DistortionVectorBias: -1
     - _DistortionVectorScale: 2
     - _DoubleSidedEnable: 0
-    - _DoubleSidedNormalMode: 1
+    - _DoubleSidedNormalMode: 0
     - _DstBlend: 10
     - _EmissionScaleUI: 1
     - _EmissiveColorMode: 1
@@ -306,8 +306,8 @@ Material:
     - _SecondarySpecularShift: 0.9
     - _Smoothness: 0.342
     - _SmoothnessInAlbedo: 0
-    - _SmoothnessMax: 0.496
-    - _SmoothnessMin: 0.373
+    - _SmoothnessMax: 0.38
+    - _SmoothnessMin: 0.298
     - _SmoothnessRemapMax: 0.342
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
@@ -360,7 +360,7 @@ Material:
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 0.14150938, g: 0.10592664, b: 0.0901121, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
-    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
+    - _DoubleSidedConstants: {r: -1, g: -1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColorUI: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColorWithMapUI: {r: 1, g: 1, b: 1, a: 1}
@@ -380,6 +380,6 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
-    - _uvBaseST: {r: 2, g: 2, b: 0, a: 1}
-    - _uvSmoothnessST: {r: 20, g: 5, b: 0, a: 0}
+    - _uvBaseST: {r: 1, g: 1, b: 0, a: 1}
+    - _uvSmoothnessST: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
