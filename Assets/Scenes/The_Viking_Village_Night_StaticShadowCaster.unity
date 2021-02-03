@@ -2068,7 +2068,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -2078,7 +2078,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -11038,7 +11038,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -11048,7 +11048,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -13055,7 +13055,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100324, guid: e06820efc1dd1ce4d92bbd588aa55968, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 100402, guid: e06820efc1dd1ce4d92bbd588aa55968, type: 3}
       propertyPath: m_IsActive
@@ -13888,7 +13888,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -13898,7 +13898,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -22354,7 +22354,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -22364,7 +22364,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -22845,7 +22845,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -22855,7 +22855,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -25357,7 +25357,7 @@ MonoBehaviour:
   m_PenumbraTint: 0
   m_NormalBias: 0.75
   m_SlopeBias: 0.5
-  m_ShadowUpdateMode: 2
+  m_ShadowUpdateMode: 0
   m_AlwaysDrawDynamicShadows: 1
   m_UpdateShadowOnLightMovement: 0
   m_CachedShadowTranslationThreshold: 0.01
@@ -36399,7 +36399,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -36409,7 +36409,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -37362,7 +37362,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -37372,7 +37372,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -39040,7 +39040,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -39050,7 +39050,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -44006,7 +44006,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -47059,7 +47059,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 19823046, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: InitialModule.startSizeY.minMaxState
@@ -47085,7 +47085,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -47457,7 +47457,7 @@ MonoBehaviour:
   m_PenumbraTint: 0
   m_NormalBias: 0.75
   m_SlopeBias: 0.5
-  m_ShadowUpdateMode: 2
+  m_ShadowUpdateMode: 0
   m_AlwaysDrawDynamicShadows: 1
   m_UpdateShadowOnLightMovement: 0
   m_CachedShadowTranslationThreshold: 0.01
@@ -48997,6 +48997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: prop_barrel_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: fa23ba21d03513f46b70227bb5a7dc67, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fa23ba21d03513f46b70227bb5a7dc67, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -49011,7 +49015,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fa23ba21d03513f46b70227bb5a7dc67, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 11.719
+      value: 11.69
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fa23ba21d03513f46b70227bb5a7dc67, type: 3}
       propertyPath: m_LocalRotation.w
@@ -49040,10 +49044,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: fa23ba21d03513f46b70227bb5a7dc67, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2300000, guid: fa23ba21d03513f46b70227bb5a7dc67, type: 3}
-      propertyPath: m_StaticShadowCaster
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa23ba21d03513f46b70227bb5a7dc67, type: 3}
@@ -49723,7 +49723,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10821712, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 19803844, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: InitialModule.startSizeY.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 19803844, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: InitialModule.startSizeZ.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 19803844, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: InitialModule.startRotationX.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 19803844, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: InitialModule.startRotationY.minMaxState
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 19871498, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
       propertyPath: InitialModule.startSizeY.minMaxState
@@ -50469,7 +50485,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -50479,7 +50495,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -50927,7 +50943,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10821712, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
@@ -59163,7 +59179,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -59173,7 +59189,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -60297,7 +60313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -60307,7 +60323,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -77419,6 +77435,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 24242024}
     m_Modifications:
+    - target: {fileID: 100012, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 177930, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -77497,7 +77517,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 10897730, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_UseViewFrustumForShadowCasterCull
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -77507,7 +77527,7 @@ PrefabInstance:
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
       propertyPath: m_ShadowUpdateMode
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6628627375158301950, guid: f632ee341faffa64ebfa4e2c74d6e422,
         type: 3}
@@ -88065,7 +88085,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 19823046, guid: f632ee341faffa64ebfa4e2c74d6e422, type: 3}
       propertyPath: InitialModule.startSizeY.minMaxState
@@ -88645,7 +88665,7 @@ MonoBehaviour:
   m_PenumbraTint: 0
   m_NormalBias: 0.75
   m_SlopeBias: 0.5
-  m_ShadowUpdateMode: 2
+  m_ShadowUpdateMode: 0
   m_AlwaysDrawDynamicShadows: 1
   m_UpdateShadowOnLightMovement: 0
   m_CachedShadowTranslationThreshold: 0.01
@@ -88739,7 +88759,7 @@ Light:
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 1.01e-43, y: 3.0878703e+38, z: 4.5904e-41, w: 0}
   m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 0
+  m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!1001 &2145983538
